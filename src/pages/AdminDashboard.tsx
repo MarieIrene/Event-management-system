@@ -24,7 +24,7 @@ const AdminDashboard: React.FC = () => {
       <div className="bg-indigo-600 text-white py-8 mb-8">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-3xl font-bold">Admin Dashboard</h1>
-          <p className="text-indigo-100">Manage events and view bookings</p>
+          <p className="text-indigo-100">Manage events and view booking</p>
         </div>
       </div>
       
